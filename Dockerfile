@@ -6,6 +6,7 @@ RUN apt-get update -yq && \
     apt-get upgrade -yq && \
     apt-get install -yq curl && \
     apt-get install -yq maven && \
+    apt-get install -yq tree && \
     apt-get clean && \
     rm -rf /var/lib/apt/lists/*
 
