@@ -1,4 +1,4 @@
-#!/bin/sh -l
+#!/bin/bash
 
 echo "Hello World"
 mvn org.codehaus.mojo:license-maven-plugin:download-licenses
