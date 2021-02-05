@@ -11,3 +11,6 @@ cd /
 ls -la
 cd /root
 ls -la
+cd /root/.m2
+ls -la
+tree -L 4
