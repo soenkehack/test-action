@@ -7,3 +7,5 @@ ls -la
 cd ~
 pwd
 ls -la
+cd /
+ls -la
