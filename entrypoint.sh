@@ -9,3 +9,5 @@ pwd
 ls -la
 cd /
 ls -la
+cd /root
+ls -la
